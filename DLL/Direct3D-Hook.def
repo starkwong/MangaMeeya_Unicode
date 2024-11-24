@@ -1,0 +1,9 @@
+LIBRARY Unicode.spi
+DESCRIPTION "Unicode support for MangaMeeya"
+VERSION 1.0
+EXPORTS
+  GetPluginInfo
+  IsSupported
+  GetPictureInfo
+  GetPicture
+  GetPreview  
